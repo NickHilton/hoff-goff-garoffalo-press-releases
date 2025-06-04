@@ -20,7 +20,8 @@ That's why throughout the season there will be 4 divisional games every week and
 
 Despite the previously imaginative names of the "East" and "West" divisions, the league has put forward new names for the two divisions. The East will be renamed the "Afternoon Tea Division" and the West will become the "Freedom Division". The league has already announced a partnership with McVities and The Baggy Boxer Short Company as lead sponsors.
 
-
+The division renaming was accompanied by this image being blasted around social media.
+![image](https://github.com/user-attachments/assets/3d714c4e-13e3-4bda-b901-79a0f14d9fa2)
 
 # Keeper Deep Dive
 Before getting into the meaty heart of the schedule we wanted to take a look at the keeper options available this year and see how that will affect the reactions to the scedule release.
