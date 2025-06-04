@@ -4,7 +4,7 @@
 
 The soccer season has just finished with the romantic story of PSG finally winning the title and only needing to spend 700m Euros on wages to do so. Who said the game has gone?
 
-Sorry Gianni but the Club World Cup is not a real thing so the HGG Towers have just released the schedule for the upcoming season to keep sports fans engaged through the summer.
+Sorry Gianni but the Club World Cup is not a real thing so the HGG Towers have just released the schedule for the upcoming season to keep sports fans engaged through the summer. In what is bad news for my productivity at work, we have a detailed look at the upcoming season's schedule over this press release.
 
 The towers confirmed this year that, unless any rules changes are adopted in the preseason AGM, the format will be unchanged from 2024.
 
@@ -13,7 +13,7 @@ Each team will play every team in their own division home and away and every tea
 "We wanted to ensure divisional rivalry is at the heart of the schedule", Edwin Butnick, the league Press Secretary, stated.
 
 "
-That's why throughout the season there will be 4 divisional games every week and one non-divisional game. The exceptions will be weeks 1 and 8, where a full slate of non-divisional games will be played, week 2 which is scheduled for rivalry week and week 3 whilst we catch up from rivalry week. It's our hope that by keeping the divisions at the heart of the competition, the American's can keep up some hope of winning a few games this year for longer.
+That's why throughout the season there will be 4 divisional games every week and one non-divisional game. The exceptions will be weeks 1 and 8, where a full slate of non-divisional games will be played, week 2 which is scheduled for rivalry week and week 3 whilst we catch up from rivalry week. It's our hope that by keeping the divisions at the heart of the competition, the American's can keep up some hope of winning a few games this year for longer, especially with the 2026 World Cup round the corner, they'll need something positive.
 "
 
 ## Division Renaming
@@ -71,7 +71,7 @@ Of course, with the draft not set, the exact value teams will be getting is to b
 
 ## Week 1
 
-*Featuring the defending champion The Selbasauruses hosting last year’s bottom team, Team Name`);DROP TABLE teams;--, the opening week is a full non-division slate with the Freedom Division traveling to the Afternoon Tea houses. Word is already being spread that the AT teams will be serving scones the Cornwall way in the executive suite to get some early mind games in.*
+*Featuring the defending champion The Selbasauruses hosting last year’s bottom team, Team Name`);DROP TABLE teams;-- in the newly annointed Hall of Goff and Quaff game, sponsored by Hazy Double IPAs, the opening week is a full non-division slate with the Freedom Division traveling to the Afternoon Tea houses. Word is already being spread that the AT teams will be serving scones the Cornwall way in the executive suite to get some early mind games in.*
 
 | Visiting Team                           | @ | Home Team                     |
 |-----------------------------------------|---|-------------------------------|
@@ -116,7 +116,7 @@ Of course, with the draft not set, the exact value teams will be getting is to b
 ---
 
 ## Week 4
-*The last of a 4 game road trip to open the season, Team Name`);DROP TABLE teams;-- will be aiming to go back to Dijon Mustard Park with at least a .500 record after visiting Coconut Arena*
+*The last of a 4 game road trip to open the season, Team Name`);DROP TABLE teams;-- will be aiming to go back to Dijon Mustard Park with at least a .500 record after visiting Coconut Arena. Their main aim though will be to avoid picking up Giardia which is stubbornly sticking around the Coconut Arena's Back Entrance and hitting GaNo Diggity's budget hard with poop test fees*
 
 | Visiting Team                           | @ | Home Team                     |
 |-----------------------------------------|---|-------------------------------|
@@ -129,7 +129,7 @@ Of course, with the draft not set, the exact value teams will be getting is to b
 ---
 
 ## Week 5
-*The first of a double-header for The Selbasauruses and the Lanco Flankos with both matches being played at the neutral Wembley Stadium. Justin Jefferson's draft stock will be likely too high for these two teams with the opportunity to see him in person*
+*The Selbasauruses and GaNo Diggity face their first away games of the season whilst the Lanko Flankos play the last of a 5 match homestand. Questions have been raised about the inefficient grid search used for the scheduling and if a more targeted approach to balance out the home/away schedule would have stopped the problem from feeling so NP hard.*
 
 | Visiting Team                           | @ | Home Team                     |
 |-----------------------------------------|---|-------------------------------|
@@ -142,7 +142,7 @@ Of course, with the draft not set, the exact value teams will be getting is to b
 ---
 
 ## Week 6
-*The second leg of the Lanco Flankos vs Selbasauruses mid-season clash will see the Jets come to town. Which of them will be brave to take a punt on the sorry men in Green, maybe Sauce Gardner can play Receiver this year*
+*The second of a double-header for The Selbasauruses and the Lanco Flankos with both matches being played at the neutral Wembley Stadium. Justin Jefferson's draft stock will be likely too high for these two teams with the opportunity to see him in person in Week 5 whilst we expect new Jets QB Justin Fields to be picked way too early given his FantasyPros draft stock (4th round ?!?) and The Selbasauruses desire to see him live*
 
 | Visiting Team                           | @ | Home Team                     |
 |-----------------------------------------|---|-------------------------------|
@@ -155,7 +155,7 @@ Of course, with the draft not set, the exact value teams will be getting is to b
 ---
 
 ## Week 7
-*A rematch of last year's Championship will see GaNo Diggity head to Pepper's Park in Camberwell hoping for some revenge from the agnozing defeat at the hands of Brandon Aubrey and the Colts Defence*
+*A rematch of last year's Championship will see GaNo Diggity head to Pepper's Park in Camberwell hoping for some revenge from the agnozing self inflicted defeat at the hands of Brandon Aubrey and the Colts Defence. GaNo Diggity GM Hilton confirming that "Those two are dead to me forever"*
 
 | Visiting Team                           | @ | Home Team                     |
 |-----------------------------------------|---|-------------------------------|
@@ -171,7 +171,7 @@ Of course, with the draft not set, the exact value teams will be getting is to b
 
 ## Week 8
 
-*A full non-divisional schedule with the Freedom disition teams hosting their rivals from across the pond. Last year the Freedom (West) division went 9-19 in inter-divisional play and will need to improve on that this season, for morale of the bald eagle population if nothing else.*
+*A full non-divisional schedule with the Freedom division teams hosting their rivals from across the pond. Last year the Freedom (West) division went 9-19 in inter-divisional play and will need to improve on that this season, for morale of the bald eagle population if nothing else.*
 
 | Visiting Team                           | @ | Home Team                     |
 |-----------------------------------------|---|-------------------------------|
