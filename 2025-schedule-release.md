@@ -237,7 +237,7 @@ Of course, with the draft not set, the exact value teams will be getting is to b
 ---
 
 ## Week 13
-*The final week of the regular season sees Hoff 'm' (maybe) Goff round out the non-divisional season with a trip to The Selbasauruses. Will they draft their own players this year? We shall see who makes the trip to South London*
+*The final week of the regular season sees Hoff 'n' (maybe) Goff round out the non-divisional season with a trip to The Selbasauruses. Will they draft their own players this year? We shall see who makes the trip to South London*
 
 | Visiting Team                           | @ | Home Team                     |
 |-----------------------------------------|---|-------------------------------|
