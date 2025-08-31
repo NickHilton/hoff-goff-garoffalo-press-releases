@@ -1,6 +1,6 @@
-# Hoff-Goff-Garoffalo Society Season Preview
+# Hoff-Goff-Garoffalo Society Draft Recap
 
-We're just days away from the start of the season now. Caleb Williams has just figured out how to take a ball from under centre, M. Nabers is recovering from all 4 of his injuries and M. Hoffman recovering his trip to all 4 of the replacement Orgy tents.
+We're just days away from the start of the season now. Caleb Williams has just figured out how to take a ball from under centre, M. Nabers is recovering from all 4 of his injuries and M. Hoffman recovering from his trip to all 4 of the replacement Orgy tents.
 
 After a contentious but ultimately seamless (?) slow draft which League Press Secretary Edwin Butnick referred to as "necessary for the continued health of the league" and "not without its challenges but in the end a successful venture", there were some clear winners and losers from the draft and several GMs will need a long hard look at the scouting teams decisions to not listen to the Ringer fantasy pod.
 
