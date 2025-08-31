@@ -8,7 +8,7 @@ With the help of guest analyst Andy Selby the team here look ahead to the season
 
 ---
 
-## You’ll never waddle alone
+## You’ll Never Waddle Alone
 - **Strategy:** No One Likes Us - With 3x Chiefs, Mahomes, Kelce and Pacheco (Of 2023 championship winning side Nicks Boasty) Mike has decided he doesn’t care if anyone likes us, I’ll dink and doink my way to victory whilst the refs cheer me on.
 - **Coolest player:** Lamar, easy. dude is a baller
 - **Lamest Moment:** Taking Brandon Aiyuk and proposing 2 IR spots ‘purely for the good of the league’, good job we saw through that
