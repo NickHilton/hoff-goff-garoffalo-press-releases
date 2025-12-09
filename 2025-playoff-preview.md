@@ -16,7 +16,7 @@ They renew their rivalry in the first round of the playoffs with the loser being
 
 Ladd McConkey caused a stir after last night's 1 catch performance when the question arose of whether he should be dropped for the playoffs. "I have done so much for this club. I don’t have to go everyday fighting for my position because I earned it. I’m not bigger than anyone". 
 
-Critics noted he's been dog-shit this year and can't live off his 2024 accomplishments forever. GM Hilton noted "Everyone has been shite - wtf has Justin Jefferson done - I can't drop them all" which suggests Ladd might retain his spot by default.
+Critics noted he's been dog-shit this year and can't live off his 2024 accomplishments forever. GM Hilton stated "Everyone has been shite - wtf has Justin Jefferson done - I can't drop them all" which suggests Ladd might retain his spot by default.
 
 ### Treuily Too Late
 
