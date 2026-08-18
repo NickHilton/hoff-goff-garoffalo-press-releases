@@ -48,6 +48,6 @@ The Lanco Flankos are waiting for their standard crate of beer from the Efe Obad
 
 ## Stakes
 
-Failure to deliver these forfeits before the next scheduled game will result in your first round pick being benched. High stakes indeed.
+Failure to deliver any forfeit before the next scheduled game will result in your first round pick being benched. High stakes indeed.
 
 We look forward to a fruitful and hopefully more balanced season of forfeits, maybe The Selbasauruses or Treuily Unfortunate will finish a week in last place for the first time ever.
