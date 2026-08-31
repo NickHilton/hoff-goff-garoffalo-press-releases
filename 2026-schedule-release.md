@@ -10,7 +10,7 @@ For the first time in league history, buoyed by The Selbabies and Efe Obada Boys
 
 ## Week 1
 
-The Hall of Goff and Quaff game, sponsored by Hazy Double IPAs highlights week one with defending Champions Easy Breecey hosting last seasons Toilet Team D*** Dielerson in the season opener. This is a rematch of last year's opening match when Easy Breecey (known then as Make Selb-A-Saws Extinct Again) rode a 29 point performance from stud Justin Fields to an easy victory. Justin, the Jets and D*** Dielerson followed similar trajectories from that point on.
+The Hall of Goff and Quaff game, sponsored by Hazy Double IPAs, highlights week one with defending Champions Easy Breecey hosting last season's Toilet Team D*** Dielerson in the season opener. This is a rematch of last year's opening match when Easy Breecey (known then as Make Selb-A-Saws Extinct Again) rode a 29 point performance from stud Justin Fields to an easy victory. Justin, the Jets and D*** Dielerson followed similar trajectories from that point on.
 
 *Around the League:*
 
@@ -19,7 +19,7 @@ The Hall of Goff and Quaff game, sponsored by Hazy Double IPAs highlights week o
 
 ## Week 2
 
-Our leagues most storied rivalry takes center stage in Week 2 as Trey Times the Charm host LLMar.json in the cross town LA rivalry. Straight Outta Santa Monica, the Treys will hope to make up for being dumped out of the playoffs in week 14 last season and extend their 7-4 all time record.
+Our leagues most storied rivalry takes center stage in Week 2 as Trey Times the Charm host LLMar.json in the cross town LA rivalry. Straight Outta Santa Monica, the Treys will hope to make up for being dumped out of the playoffs in week 14 last season by Patrick Nomames and extend their 7-4 all time record.
 
 *Around the League:*
 
@@ -41,7 +41,9 @@ The all time standings currently sit at:
 ### A New Chapter
 
 Michigan vs Ohio State
+
 Galatasaray vs Fenerbahce
+
 Luke Littler vs Michael van Gerwen
 
 Undoubtedly the pinnacle of sporting rivalries but there is unbridled excitement at the possibility of adding a new matchup to this hallowed group.
@@ -56,7 +58,7 @@ The Selbasauruses spent the most draft capital on quarterbacks whilst the Lanco 
 
 *Around the League:*
 
-- Achane Reaction plays their 4th home match in a row, hoping to leave South Florida with at least a 3-1 record
+- Achane Reaction plays their 4th home match in a row, hoping to leave South Florida with at least a 3-1 record.
 
 ## Week 5
 
@@ -65,7 +67,9 @@ The second intra-conference week of the season sees the Freedom conference host 
 There will certainly be some desparate fans heading out to the Freedom Fields as 3 of the matchups see the home team looking for their first ever win over the opponent.
 
 The Selbasauruses have never lost to D*** Dielerson
+
 Easy Breecey have never lost to Treuily Unfortunate
+
 Lanco Flankos have never lost to Trey Times the Charm
 
 In fact, Achane Reaction have never lost to LLMar.json
@@ -116,14 +120,14 @@ Last year Jonathon Taylor put up 49.6 at home and 34.2 away for the Lanco Flanko
 
 ## Week 10
 
-One of only two current teams without a winning record against D*** Dielerson, Hoff 'n Goff (3-3 all time) will host The Eggplants hoping to push forward into the home stretch. With 5 players returning from last season they easily have the most stable squad in the league and with a season sweep last year of the Eggplants they should be lean on that experience to take the win.
+One of only two current teams without a winning record against D*** Dielerson, Hoff 'n Goff (3-3 all time) will host The Eggplants hoping to push forward into the home stretch. With 5 players returning from last season they easily have the most stable squad in the league and with a season sweep last year of the Aubergines they should be lean on that experience to take the win.
 
 We must note that D*** Dielerson is the only team with a winning record against both former clubs, Brock Sturdy and You'll Never Waddle Alone.
 
 *Around the League:*
 
 - The Lanco Flankos will feel hard done by the schedule. They face LLMar.json with Colstan Loveland on a bye week. The structured payload's 5th round pick is the highest ranked pick on a bye against the Flankos all year, as they face a league low 4 bye weeks total (of first 10 round picks) across the season.
-- Achane Reaction has the luckiest bye week schedule with a stonking 15 bye weeks total, although they do have 3 bye weeks pending for the currently unscheduled week 14 seeding round.
+- Achane Reaction has the luckiest bye week schedule with a stonking 15 bye weeks total, although they do have 3 bye weeks pending themselves for the currently unscheduled week 14 seeding round.
 
 **Opponent top-10 picks on bye, by week**
 
@@ -150,7 +154,7 @@ Since the 2024 Semi-final choke job at the hands of a 21 point Brandon Aubrey pe
 
 *Around the League:*
 
-- Byepocalypse hits everyone across the league with everyone missing a top 10 pick and LLMar.json and Hoff 'n Goff missing 4 of their top 10 picks including first and second round picks for the Hoffers in B. Robinson and D. London. Notably other B. Robinson on the Falcons is also a Hoffer and is on a bye.
+- Byepocalypse hits everyone across the league with everyone missing a first 10 round pick and LLMar.json and Hoff 'n Goff missing 4 of their top 10 picks including first and second round picks for the Hoffers in B. Robinson and D. London. Notably other B. Robinson on the Falcons is also a Hoffer and is on a bye.
 
 **Bye distribution matrix - each team's first 10 picks**
 
@@ -172,7 +176,7 @@ Since the 2024 Semi-final choke job at the hands of a 21 point Brandon Aubrey pe
 
 ## Week 12
 
-The last time D*** Dielerson visited Dijon Arena they limped out with a pathetic (but banterous) 69 points with not a single player scoring double digits. We'll see if they can put to bed those demons to bed in a critical late season matchup featuring 2 of the league's top quarterbacks in LLMar Json and Jayden Daniels.
+The last time D*** Dielerson visited Dijon Arena they limped out with a pathetic (but banterous) 69 points with not a single player scoring double digits. We'll see if they can put to bed those demons to bed in a critical late season matchup featuring 2 of the league's top quarterbacks in LLMar.json and Jayden Daniels.
 
 *Around the League:*
 
@@ -184,7 +188,7 @@ The league's top two picks, Josh Allen and Jahmyr Gibbs close out the season aga
 
 The penultimate week of the regular season and the end of this write up which is fortunate because I've exhausted all of my stats.
 
-## Championship Stones
+# Championship Stones
 
 A reminder on how to get that elusive Golden Crown in your Fantasy app.
 
@@ -192,8 +196,8 @@ Treuily Unfortunate would have won 1.35 championships on average with a differen
 
 It goes to show that stats and coaching can only get you so far, what really matters is grit, determination and having all your players step up and ball out when it really matters.
 
-Malik Willis and Isaiah Pacheco you will always be remembered have your jerseys hung up at Coconut Park.
+Malik Willis and Isaiah Pacheco you will always be remembered and have your jerseys hung up at Coconut Park.
 
-Good luck all for the season from the Easy Breecey front office
+Good luck all for the season from the Easy Breecey front office!
 
-p.s. You'll all have been scheduled to play Achane Reaction once this week as I rotated it every night to try and get a nibble, for which I got a minor one. The schedule is not fully locked, cocked and ready to rock
+p.s. You'll all have been scheduled to play Achane Reaction in week 1 once this week as I rotated it every night to try and get a nibble, for which I got a minor one. The schedule is not fully locked, cocked and ready to rock as of this morning.
