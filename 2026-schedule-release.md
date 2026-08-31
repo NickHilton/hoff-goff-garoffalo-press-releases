@@ -10,7 +10,7 @@ For the first time in league history, buoyed by The Selbabies and Efe Obada Boys
 
 The Hall of Goff and Quaff game, sponsored by Hazy Double IPAs highlights week one with defending Champions Easy Breecey hosting last seasons Toilet Team D*** Dielerson in the season opener. This is a rematch of last year's opening match when Easy Breecey (known then as Make Selb-A-Saws Extinct Again) rode a 29 point performance from stud Justin Fields to an easy victory. Justin, the Jets and D*** Dielerson followed similar trajectories from that point on.
 
-Around the league:
+*Around the League:*
 
 - McCaffrey Bowl winner Trey Times the Charm takes on Beer Mile Champion, The Eluemunorti
 - Achane Reaction host their first ever game by welcoming Treuily Unfortunate to the Swamp, I think I speak for the league when I hope a last minute 80 yard Malik Willis bomb to Caleb Douglas squeaks out the opening day win
@@ -19,7 +19,7 @@ Around the league:
 
 Our leagues most storied rivalry takes center stage in Week 2 as Trey Times the Charm host LLMar.json in the cross town LA rivalry. Straight Outta Santa Monica, the Treys will hope to make up for being dumped out of the playoffs in week 14 last season and extend their 7-4 all time record.
 
-Around The League:
+*Around the League:*
 
 - A 2024 Garoffalo Bowl rematch is in the early slate, Terry Mclaurin and Brandon Aubrey the only survivors of that game. Easy Breecey fans haven't forgiven Aubrey for hitting the right upright with a field goal which would have won them the title. They expect to easily roll The Selbasauruses this time out.
 
@@ -52,7 +52,7 @@ The second double header of the season completes (maybe) at the neutral Tottenha
 
 The Selbasauruses spent the most draft capital on quarterbacks whilst the Lanco Flankos spent the least, let's see if star players win you championships
 
-Around the League:
+*Around the League:*
 
 - Achane Reaction plays their 4th home match in a row, hoping to leave South Florida with at least a 3-1 record
 
@@ -74,7 +74,7 @@ The Afternoon Tea conference is a combined 13-2 all time in these match ups, by 
 
 Ground and Pound or slinging it deep - we'll find out in week 6 what wins matches in this league as Trey Times the Charm host Achane Reaction. They respectively spent the most and least draft capital on Receivers as well as the least and most draft capital on Running Backs. Data nerds everywhere are anticipating this matchup to update their xPoint models.
 
-Around The League:
+*Around the League:*
 
 - The 2025 Garoffalo Bowl rematch takes place in Yorkshire as the Lanco Flankos will be looking for their first ever victory over Easy Breecey - an 0-6 record is the worst of any rivalry across the league.
 
@@ -84,7 +84,7 @@ The two oldest squads match up in Week 7. Hoff 'n Goff will need to get the Mela
 
 At an average of 6.7 years, including Rookie Makai Lemon and 5 players with 2 years of experience or less, Treuily Unfortunate is the league's next oldest squad but will go into the match hoping to keep the tempo up and see if the league will push the kickoff to the late slot and past most of the Hoffer's bed times.
 
-Around the League:
+*Around the League:*
 
 - LLMar.json plays their 5th home match in a row. Sunny California is nice in October but so is the rest of the country, they are unfortuante to not have this home stand in the late season
 
@@ -96,7 +96,7 @@ The Selbasauruses (-3.05 lifetime wins over expected) travel to the Griffin Park
 
 In that historic matchup, Treuily Awful dropped the 15th highest score of all time, had home playoff advantage and was beaten by a top 10 all timer from the Selbasauruses. To rub salt in the wound, Treuily Awful put up 253.6 in the championship round, the highest score of all time by over 35 points, it did secure them 3rd place though!
 
-Around the League:
+*Around the League:*
 
 - D*** Dielerson and Achane Reaction play their last intra-conference matchups of the season, and will need to be fully prepared for the grit of Divisional Football in December in the North East. Professional New York Football teams obviously never experience meaningful December matches but these two squads will be hoping something is on the line
 
@@ -108,7 +108,7 @@ Team Captain Ladd McConkey and Romeo Doubs the only players to have previously p
 
 Last year Jonathon Taylor put up 49.6 at home and 34.2 away for the Lanco Flankos against The Eluemunorti so GM Hilton will be very happy to see the back of Taylor (something the defence did a lot of last year) on the Yorkshire based outfit this season.
 
-Around the League:
+*Around the League:*
 
 - Easy Breecey will be happy for their defacto bye week, at home to Achane Reaction before the serious games start at Thanksgiving
 
@@ -118,7 +118,7 @@ One of only two current teams without a winning record against D*** Dielerson, H
 
 We must note that D*** Dielerson is the only team with a winning record against both former clubs, Brock Sturdy and You'll Never Waddle Alone.
 
-Around the League:
+*Around the League:*
 
 - The Lanco Flankos will feel hard done by the schedule. They face LLMar.json with Colstan Loveland on a bye week. The structured payload's 5th round pick is the highest ranked pick on a bye against the Flankos all year, as they face a league low 4 bye weeks total (of first 10 round picks) across the season.
 - Achane Reaction has the luckiest bye week schedule with a stonking 15 bye weeks total, although they do have 3 bye weeks pending for the currently unscheduled week 14 seeding round.
@@ -146,7 +146,7 @@ It takes alot to beat Easy Breecey, especially in the fierce familial rivalry th
 
 Since the 2024 Semi-final choke job at the hands of a 21 point Brandon Aubrey perfomance though, the Eluemunorti have a mental block when facing their bigger bro, bookies have already stopped taking bets on this match in the anticipation of yet another bottling from the Greenwich boys.
 
-Around the League:
+*Around the League:*
 
 - Byepocalypse hits everyone across the league with everyone missing a top 10 pick and LLMar.json and Hoff 'n Goff missing 4 of their top 10 picks including first and second round picks for the Hoffers in B. Robinson and D. London. Notably other B. Robinson on the Falcons is also a Hoffer and is on a bye.
 
@@ -172,7 +172,7 @@ Around the League:
 
 The last time D*** Dielerson visited Dijon Arena they limped out with a pathetic (but banterous) 69 points with not a single player scoring double digits. We'll see if they can put to bed those demons to bed in a critical late season matchup featuring 2 of the league's top quarterbacks in LLMar Json and Jayden Daniels.
 
-Around the League:
+*Around the League:*
 
 - No byes this week as we conclude our foray into bye weeks for the Around the League sections. Watch out for kickers outdoors in the north though as we enter winter football.
 
