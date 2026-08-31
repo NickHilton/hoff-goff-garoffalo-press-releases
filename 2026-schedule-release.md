@@ -200,4 +200,4 @@ Malik Willis and Isaiah Pacheco you will always be remembered and have your jers
 
 Good luck all for the season from the Easy Breecey front office!
 
-p.s. You'll all have been scheduled to play Achane Reaction in week 1 once this week as I rotated it every night to try and get a nibble, for which I got a minor one. The schedule is not fully locked, cocked and ready to rock as of this morning.
+p.s. You'll all have been scheduled to play Achane Reaction in week 1 once this week as I rotated it every night to try and get a nibble, for which I got a minor one. The schedule is now fully locked, cocked and ready to rock as of this morning.
