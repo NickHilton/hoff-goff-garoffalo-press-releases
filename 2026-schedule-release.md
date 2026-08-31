@@ -1,3 +1,5 @@
+# 2026 - The Big Season Preview
+
 After the absolute palava that ensued following Claude's shoddy attempt to push up our electric custom schedule, the league office is happy to confirm that not only is the draft board set in stone, but all the fixtures are now locked, cocked and ready to rock.
 
 With the departure of You'll Never Waddle Alone, the Afternoon Tea conference welcomes Achane Reaction who make their debut this season.
