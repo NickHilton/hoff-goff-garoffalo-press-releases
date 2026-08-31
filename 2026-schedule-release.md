@@ -8,16 +8,16 @@ For the first time in league history, buoyed by The Selbabies and Efe Obada Boys
 
 ## Week 1
 
-The Hall of Goff and Quaff game, sponsored by Hazy Double IPAs highlights week one with defending Champions Easy Breecey hosting last seasons Toilet Team D*** Deilerson in the season opener. This is a rematch of last year's opening match when Easy Breecey (known then as Make Selb-A-Saws Extinct Again) rode a 29 point performance from stud Justin Fields to an easy victory. Justin, the Jets and D**** Deilerson followed similar trajectories from that point on.
+The Hall of Goff and Quaff game, sponsored by Hazy Double IPAs highlights week one with defending Champions Easy Breecey hosting last seasons Toilet Team D*** Dielerson in the season opener. This is a rematch of last year's opening match when Easy Breecey (known then as Make Selb-A-Saws Extinct Again) rode a 29 point performance from stud Justin Fields to an easy victory. Justin, the Jets and D*** Dielerson followed similar trajectories from that point on.
 
 Around the league:
 
-- McCaffrey Bowl winner Trey Times the Charm takes on Beer Mile Champion, The Eleumenorti
+- McCaffrey Bowl winner Trey Times the Charm takes on Beer Mile Champion, The Eluemunorti
 - Achane Reaction host their first ever game by welcoming Treuily Unfortunate to the Swamp, I think I speak for the league when I hope a last minute 80 yard Malik Willis bomb to Caleb Douglas squeaks out the opening day win
 
 ## Week 2
 
-Our leagues most storied rivalry takes center stage in Week 2 as Trey Times The Charm host LLMar.json in the cross town LA rivalry. Straight Outta Santa Monica, the Treys will hope to make up for being dumped out of the playoffs in week 14 last season and extend their 7-4 all time record.
+Our leagues most storied rivalry takes center stage in Week 2 as Trey Times the Charm host LLMar.json in the cross town LA rivalry. Straight Outta Santa Monica, the Treys will hope to make up for being dumped out of the playoffs in week 14 last season and extend their 7-4 all time record.
 
 Around The League:
 
@@ -30,7 +30,7 @@ The League's Rivalry Week hits in late September as we see the fiercest matchups
 The all time standings currently sit at:
 
 Trey Times the Charm 7-4 LLMar.json
-Easy Breecey 5-2 The Eleumenorti
+Easy Breecey 5-2 The Eluemunorti
 The Selbasauruses 3-3 Lanco Flankos
 Hoff 'n Goff 4-1 Treuily Unfortunate
 
@@ -42,7 +42,7 @@ Luke Littler vs Michael van Gerwen
 
 Undoubtedly the pinnacle of sporting rivalries but there is unbridled excitement at the possibility of adding a new matchup to this hallowed group.
 
-Achane Reaction welcome D*** Deilerson to South Brooklyn, looking to confirm their standing as the premier ball club east of Nostrand Avenue
+Achane Reaction welcome D*** Dielerson to South Brooklyn, looking to confirm their standing as the premier ball club east of Nostrand Avenue
 
 ## Week 4
 
@@ -60,7 +60,7 @@ The second intra-conference week of the season sees the Freedom conference host 
 
 There will certainly be some desparate fans heading out to the Freedom Fields as 3 of the matchups see the home team looking for their first ever win over the opponent.
 
-The Selbasauruses have never lost to D*** Deilerson
+The Selbasauruses have never lost to D*** Dielerson
 Easy Breecey have never lost to Treuily Unfortunate
 Lanco Flankos have never lost to Trey Times the Charm
 
@@ -70,7 +70,7 @@ The Afternoon Tea conference is a combined 13-2 all time in these match ups, by 
 
 ## Week 6
 
-Ground and Pound or slinging it deep - we'll find out in week 6 what wins matches in this league as Trey Times The Charm host Achane Reaction. They respectively spent the most and least draft capital on Receivers as well as the least and most draft capital on Running Backs. Data nerds everywhere are anticipating this matchup to update their xPoint models.
+Ground and Pound or slinging it deep - we'll find out in week 6 what wins matches in this league as Trey Times the Charm host Achane Reaction. They respectively spent the most and least draft capital on Receivers as well as the least and most draft capital on Running Backs. Data nerds everywhere are anticipating this matchup to update their xPoint models.
 
 Around The League:
 
@@ -96,15 +96,15 @@ In that historic matchup, Treuily Awful dropped the 15th highest score of all ti
 
 Around the League:
 
-- D*** Deilerson and Achane Reaction play their last intra-conference matchups of the season, and will need to be fully prepared for the grit of Divisional Football in December in the North East. Professional New York Football teams obviously never experience meaningful December matches but these two squads will be hoping something is on the line
+- D*** Dielerson and Achane Reaction play their last intra-conference matchups of the season, and will need to be fully prepared for the grit of Divisional Football in December in the North East. Professional New York Football teams obviously never experience meaningful December matches but these two squads will be hoping something is on the line
 
 ## Week 9
 
-The Eleumenorti and the Lanco Flankos meet in Week 9. The fewest returning players of any squads, they obviously haven't been too happy with prior seasons.
+The Eluemunorti and the Lanco Flankos meet in Week 9. The fewest returning players of any squads, they obviously haven't been too happy with prior seasons.
 
-Team Captain Ladd McConkey and Romeo Doubs the only players to have previously pulled on the Black and Yellow jersey for The Eleumenorti whilst Tyler Warren, Chase Brown and Trevor Lawrence return for the Lanco Flankos, notably having all been ever present in 2025.
+Team Captain Ladd McConkey and Romeo Doubs the only players to have previously pulled on the Black and Yellow jersey for The Eluemunorti whilst Tyler Warren, Chase Brown and Trevor Lawrence return for the Lanco Flankos, notably having all been ever present in 2025.
 
-Last year Jonathon Taylor put up 49.6 at home and 34.2 away for the Lanco Flankos against The Eleumenorti so GM Hilton will be very happy to see the back of Taylor (something the defence did a lot of last year) on the Yorkshire based outfit this season.
+Last year Jonathon Taylor put up 49.6 at home and 34.2 away for the Lanco Flankos against The Eluemunorti so GM Hilton will be very happy to see the back of Taylor (something the defence did a lot of last year) on the Yorkshire based outfit this season.
 
 Around the League:
 
@@ -112,9 +112,9 @@ Around the League:
 
 ## Week 10
 
-One of only two current teams without a winning record against D*** Deilerson, Hoff 'n Goff (3-3 all time) will host The Eggplants hoping to push forward into the home stretch. With 5 players returning from last season they easily have the most stable squad in the league and with a season sweep last year of the Eggplants they should be lean on that experience to take the win.
+One of only two current teams without a winning record against D*** Dielerson, Hoff 'n Goff (3-3 all time) will host The Eggplants hoping to push forward into the home stretch. With 5 players returning from last season they easily have the most stable squad in the league and with a season sweep last year of the Eggplants they should be lean on that experience to take the win.
 
-We must note that D*** Deilerson is the only team with a winning record against both former clubs, Brock Sturdy and You'll Never Waddle Alone.
+We must note that D*** Dielerson is the only team with a winning record against both former clubs, Brock Sturdy and You'll Never Waddle Alone.
 
 Around the League:
 
@@ -127,22 +127,22 @@ Around the League:
 |:---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
 | Achane Reaction | 1 | 3 | 4 | 2 | . | 2 | 1 | . | 2 | 15 | 7 | +8 |
 | Trey Times the Charm | 2 | 3 | 3 | 1 | . | 3 | 1 | . | 1 | 14 | 9 | +5 |
-| D*** Deilerson | . | 1 | . | 2 | 1 | 2 | 4 | . | 1 | 11 | 8 | +3 |
+| D*** Dielerson | . | 1 | . | 2 | 1 | 2 | 4 | . | 1 | 11 | 8 | +3 |
 | The Selbasauruses | . | 2 | . | 1 | . | 3 | 4 | . | 1 | 11 | 10 | +1 |
 | Hoff 'n Goff | 1 | . | . | 2 | 1 | 1 | 2 | . | 2 | 9 | 9 | 0 |
 | LLMar.json | . | 1 | 1 | 1 | . | . | 2 | . | 3 | 8 | 10 | -2 |
 | Treuily Unfortunate | . | . | . | 2 | 1 | 2 | 2 | . | 1 | 8 | 10 | -2 |
 | Easy Breecey | . | 2 | 1 | 1 | . | 1 | 1 | . | . | 6 | 9 | -3 |
-| The Eleumenorti | . | 1 | 1 | 1 | . | 1 | 2 | . | . | 6 | 10 | -4 |
+| The Eluemunorti | . | 1 | 1 | 1 | . | 1 | 2 | . | . | 6 | 10 | -4 |
 | Lanco Flankos | . | . | 1 | . | 1 | 1 | 1 | . | . | 4 | 10 | -6 |
 
 *Opp = opponent top-10 picks on bye across the season, Own = your own, Net = the difference. Weeks 5-13 only, as week 14 is unscheduled.*
 
 ## Week 11
 
-It takes alot to beat Easy Breecey, especially in the fierce familial rivalry that happens when The Eleumenorti are the opponents. The Eleumenorti have only 2 wins in the all-time series vs 5 losses, but those 2 win came with the 2nd and 3rd highest scores ever seen across the league, 215.4 in 2024 and 216.7 (adjusted from the raw 186.0) in 2023.
+It takes alot to beat Easy Breecey, especially in the fierce familial rivalry that happens when The Eluemunorti are the opponents. The Eluemunorti have only 2 wins in the all-time series vs 5 losses, but those 2 win came with the 2nd and 3rd highest scores ever seen across the league, 215.4 in 2024 and 216.7 (adjusted from the raw 186.0) in 2023.
 
-Since the 2024 Semi-final choke job at the hands of a 21 point Brandon Aubrey perfomance though, the Eleumenorti have a mental block when facing their bigger bro, bookies have already stopped taking bets on this match in the anticipation of yet another bottling from the Greenwich boys.
+Since the 2024 Semi-final choke job at the hands of a 21 point Brandon Aubrey perfomance though, the Eluemunorti have a mental block when facing their bigger bro, bookies have already stopped taking bets on this match in the anticipation of yet another bottling from the Greenwich boys.
 
 Around the League:
 
@@ -156,11 +156,11 @@ Around the League:
 | LLMar.json | 1 | . | 1 | 1 | 1 | 1 | 4 | 1 | . | 4 | 7 |
 | Hoff 'n Goff | . | 1 | . | 2 | . | 2 | 4 | . | 1 | 4 | 5 |
 | Achane Reaction | . | 3 | . | 2 | . | 1 | 1 | . | 3 | 3 | 5 |
-| D*** Deilerson | . | . | 3 | . | 1 | 1 | 2 | 1 | 2 | 3 | 6 |
+| D*** Dielerson | . | . | 3 | . | 1 | 1 | 2 | 1 | 2 | 3 | 6 |
 | Easy Breecey | . | . | 1 | 1 | . | 3 | 2 | 2 | 1 | 3 | 6 |
 | Trey Times the Charm | . | 3 | . | 1 | . | 2 | 2 | 1 | 1 | 3 | 6 |
 | Treuily Unfortunate | . | 1 | . | 1 | 1 | 3 | 1 | 3 | . | 3 | 6 |
-| The Eleumenorti | 1 | 2 | 1 | 1 | 1 | 2 | 1 | 1 | . | 2 | 8 |
+| The Eluemunorti | 1 | 2 | 1 | 1 | 1 | 2 | 1 | 1 | . | 2 | 8 |
 | Lanco Flankos | 2 | 2 | 1 | 2 | . | . | 1 | 2 | . | 2 | 6 |
 | **LEAGUE** | **4** | **13** | **11** | **13** | **4** | **16** | **20** | **11** | **8** | | |
 
@@ -168,7 +168,7 @@ Around the League:
 
 ## Week 12
 
-The last time D*** Deilerson visited Dijon Arena they limped out with a pathetic (but banterous) 69 points with not a single player scoring double digits. We'll see if they can put to bed those demons to bed in a critical late season matchup featuring 2 of the league's top quarterbacks in LLMar Json and Jayden Daniels.
+The last time D*** Dielerson visited Dijon Arena they limped out with a pathetic (but banterous) 69 points with not a single player scoring double digits. We'll see if they can put to bed those demons to bed in a critical late season matchup featuring 2 of the league's top quarterbacks in LLMar Json and Jayden Daniels.
 
 Around the League:
 
@@ -176,7 +176,7 @@ Around the League:
 
 ## Week 13
 
-The league's top two picks, Josh Allen and Jahmyr Gibbs close out the season against each other in the South London rivalry match up of the Selbasauruses and The Eleumenorti
+The league's top two picks, Josh Allen and Jahmyr Gibbs close out the season against each other in the South London rivalry match up of the Selbasauruses and The Eluemunorti
 
 The penultimate week of the regular season and the end of this write up which is fortunate because I've exhausted all of my stats.
 
