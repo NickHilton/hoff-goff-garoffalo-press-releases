@@ -121,6 +121,23 @@ Around the League:
 - The Lanco Flankos will feel hard done by the schedule. They face LLMar.json with Colstan Loveland on a bye week. The structured payload's 5th round pick is the highest ranked pick on a bye against the Flankos all year, as they face a league low 4 bye weeks total (of first 10 round picks) across the season.
 - Achane Reaction has the luckiest bye week schedule with a stonking 15 bye weeks total, although they do have 3 bye weeks pending for the currently unscheduled week 14 seeding round.
 
+**Opponent top-10 picks on bye, by week**
+
+| Team | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | Opp | Own | Net |
+|:---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| Achane Reaction | 1 | 3 | 4 | 2 | . | 2 | 1 | . | 2 | 15 | 7 | +8 |
+| Trey Times the Charm | 2 | 3 | 3 | 1 | . | 3 | 1 | . | 1 | 14 | 9 | +5 |
+| D*** Deilerson | . | 1 | . | 2 | 1 | 2 | 4 | . | 1 | 11 | 8 | +3 |
+| The Selbasauruses | . | 2 | . | 1 | . | 3 | 4 | . | 1 | 11 | 10 | +1 |
+| Hoff 'n Goff | 1 | . | . | 2 | 1 | 1 | 2 | . | 2 | 9 | 9 | 0 |
+| LLMar.json | . | 1 | 1 | 1 | . | . | 2 | . | 3 | 8 | 10 | -2 |
+| Treuily Unfortunate | . | . | . | 2 | 1 | 2 | 2 | . | 1 | 8 | 10 | -2 |
+| Easy Breecey | . | 2 | 1 | 1 | . | 1 | 1 | . | . | 6 | 9 | -3 |
+| The Eleumenorti | . | 1 | 1 | 1 | . | 1 | 2 | . | . | 6 | 10 | -4 |
+| Lanco Flankos | . | . | 1 | . | 1 | 1 | 1 | . | . | 4 | 10 | -6 |
+
+*Opp = opponent top-10 picks on bye across the season, Own = your own, Net = the difference. Weeks 5-13 only, as week 14 is unscheduled.*
+
 ## Week 11
 
 It takes alot to beat Easy Breecey, especially in the fierce familial rivalry that happens when The Eleumenorti are the opponents. The Eleumenorti have only 2 wins in the all-time series vs 5 losses, but those 2 win came with the 2nd and 3rd highest scores ever seen across the league, 215.4 in 2024 and 216.7 (adjusted from the raw 186.0) in 2023.
@@ -130,6 +147,24 @@ Since the 2024 Semi-final choke job at the hands of a 21 point Brandon Aubrey pe
 Around the League:
 
 - Byepocalypse hits everyone across the league with everyone missing a top 10 pick and LLMar.json and Hoff 'n Goff missing 4 of their top 10 picks including first and second round picks for the Hoffers in B. Robinson and D. London. Notably other B. Robinson on the Falcons is also a Hoffer and is on a bye.
+
+**Bye distribution matrix - each team's first 10 picks**
+
+| Team | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 13 | 14 | Worst | #Wks |
+|:---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| The Selbasauruses | . | 1 | 4 | 2 | . | 1 | 2 | . | . | 4 | 5 |
+| LLMar.json | 1 | . | 1 | 1 | 1 | 1 | 4 | 1 | . | 4 | 7 |
+| Hoff 'n Goff | . | 1 | . | 2 | . | 2 | 4 | . | 1 | 4 | 5 |
+| Achane Reaction | . | 3 | . | 2 | . | 1 | 1 | . | 3 | 3 | 5 |
+| D*** Deilerson | . | . | 3 | . | 1 | 1 | 2 | 1 | 2 | 3 | 6 |
+| Easy Breecey | . | . | 1 | 1 | . | 3 | 2 | 2 | 1 | 3 | 6 |
+| Trey Times the Charm | . | 3 | . | 1 | . | 2 | 2 | 1 | 1 | 3 | 6 |
+| Treuily Unfortunate | . | 1 | . | 1 | 1 | 3 | 1 | 3 | . | 3 | 6 |
+| The Eleumenorti | 1 | 2 | 1 | 1 | 1 | 2 | 1 | 1 | . | 2 | 8 |
+| Lanco Flankos | 2 | 2 | 1 | 2 | . | . | 1 | 2 | . | 2 | 6 |
+| **LEAGUE** | **4** | **13** | **11** | **13** | **4** | **16** | **20** | **11** | **8** | | |
+
+*Byes run weeks 5-14, with no week 12 bye this year. Worst = most picks off in a single week, #Wks = how many different weeks are affected.*
 
 ## Week 12
 
