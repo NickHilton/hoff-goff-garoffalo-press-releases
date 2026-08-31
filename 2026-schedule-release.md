@@ -29,10 +29,12 @@ The League's Rivalry Week hits in late September as we see the fiercest matchups
 
 The all time standings currently sit at:
 
-Trey Times the Charm 7-4 LLMar.json
-Easy Breecey 5-2 The Eluemunorti
-The Selbasauruses 3-3 Lanco Flankos
-Hoff 'n Goff 4-1 Treuily Unfortunate
+| Team | All-time | Rival |
+|:---|:---:|---:|
+| Trey Times the Charm | 7-4 | LLMar.json |
+| Easy Breecey | 5-2 | The Eluemunorti |
+| The Selbasauruses | 3-3 | Lanco Flankos |
+| Hoff 'n Goff | 4-1 | Treuily Unfortunate |
 
 ### A New Chapter
 
